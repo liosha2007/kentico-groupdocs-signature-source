@@ -1,3 +1,3 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="EmbedSignature.ascx.cs" Inherits="CMSWebParts_Groupdocs_EmbedSignature" %>
 
-<iframe id="iframe" runat="server" frameborder="0"></iframe>
+<iframe id="iframe" runat="server" frameborder="0">If you can see this text, your browser does not support iframes.Please enable iframe support in your browser or use the latest version of any popular web browsers such as Mozilla Firefox or Google Chrome. Learnhow to apply your <a href="http://groupdocs.com/apps/signature">signature online</a> from a web browser.</iframe>
